@@ -1,7 +1,8 @@
 baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "Loïc's Space"
-theme = "hugo-theme-digital-garden"
+theme = ["hugo-embed-pdf-shortcode", "hugo-theme-digital-garden"]
+enableInlineShortcodes = true
 
 googleAnalytics = "UA-PROPERTY_ID"
 
