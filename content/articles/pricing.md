@@ -32,12 +32,12 @@ Eh bien son idée se résume en un concept assez simple:
 Finalement, il faut que le prix que vous choisirez soit perçu par le client comme plus bas que la valeur du produit ou du service. Et, bien sûr, il faut toujours que le client ait les fonds pour payer.
 </p> J'ajouterais que, selon moi, la valeur perçue par le client peut être influencée, selon les cas, par du storytelling ou simplement en jouant sur certains biais, par exemple.
 
-
-Si vous voulez lire l'article,
-<a href="https://seths.blog/2024/11/understanding-pricing/">le voici</a>
+<hr>
+Si vous souhaitez lire l'article,
+<a href="https://seths.blog/2024/11/understanding-pricing/" target="_blank">le voici</a>
 <hr>
 
-## Un autre article
+## Un autre article?
 
 Vous serez peut-être intéressé par l'article suivant:
 
