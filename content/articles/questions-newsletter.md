@@ -1,6 +1,6 @@
 ---
 title: Les 13 questions essentielles permette d'améliorer la page d'inscription à votre newsletter 
-date: 2024-12-13
+date: 2024-12-11
 ---
 
 Si vous avez déjà mis en place une newsletter, vous savez très bien que la récolte d’e-mails est l’étape 0 et qu’elle est élémentaire. Mais pour obtenir un bon taux d’ouverture et un engagement solide, il est crucial d’attirer des abonnés réellement intéressés par vos contenus.
@@ -84,4 +84,4 @@ Si vous souhaitez lire l'article,
 
 Vous serez peut-être intéressé par l'article suivant:
 <br>
-[Comment définir un prix pour un produit ou un service?](/articles/pricing)
+[Pourquoi un beau site ne convertit pas](/articles/conversion-site-web)

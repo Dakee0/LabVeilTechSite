@@ -1,6 +1,6 @@
 ---
 title: Pourquoi un beau site ne convertit pas
-date: 2024-12-14
+date: 2024-11-07
 ---
 Si vous pensiez qu’un design spectaculaire suffit pour transformer vos visiteurs en clients, cet article va vous faire revoir vos priorités. Inspiré de la vidéo de la chaîne YouTube @Malewicz, voici un résumé des points clés pour comprendre pourquoi un beau site ne suffit pas, et surtout comment optimiser votre site pour booster vos conversions.
 

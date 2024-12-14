@@ -3,7 +3,6 @@ title: Comment définir un prix pour un produit ou un service?
 date: 2024-11-29
 ---
 
-## Pourquoi le pricing est un problème
 Imaginez, vous voulez développer un nouveau produit. 
 <br> Vous avez identifié votre cible grâce à une analyse de marché, designé le produit, produit le produit et vous le testez. Jusque là tout va bien, toutes les étapes ont été validées et il est maintenant temps de lancer le produit.
 <p> Mais une question cruciale demeure : à quel prix vendre votre produit ?</p> 
@@ -41,4 +40,4 @@ Si vous souhaitez lire l'article,
 
 Vous serez peut-être intéressé par l'article suivant:
 
-[Pourquoi les publicités en italiques sont plus efficaces](/articles/structure)
+[Pourquoi un beau site ne convertit pas](./articles/conversion-site-web)
