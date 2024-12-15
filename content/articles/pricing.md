@@ -40,4 +40,4 @@ Si vous souhaitez lire l'article,
 
 Vous serez peut-être intéressé par l'article suivant:
 
-[Pourquoi un beau site ne convertit pas](./articles/conversion-site-web)
+[Pourquoi un beau site ne convertit pas](LabVeilTechSite/articles/conversion-site-web)
