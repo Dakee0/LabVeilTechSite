@@ -14,8 +14,6 @@ L’ikigai est en quelque sorte la “raison d’être”. C’est remplissant l
 
 Ici, j’ai défini mon ikigai professionnel. Il est axé plus sur le marketing, mais avec un côté “start-up”. De plus, je l’ai pensé sur du moyen terme, à savoir un horizon de quelques années (5-10ans), car il est probable que d’ici à 10 ans, il change fortement. 
 
-![Ikigaï.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4387dd70-dab3-4abe-9d02-03041abaa3e7/08563120-c28b-4085-8bd1-caedd04069a1/Ikiga.png)
-
 ## Taxonomies
 
 Si je devais diviser la Taxonomie de mon domaine, le marketing, en plusieurs sous-sections tout en sélectionnant uniquement celles qui me plaisent, cela ressemblerait à ça:
