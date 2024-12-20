@@ -6,7 +6,7 @@ title: Accueil
 
 **Bienvenu dans mon espace!**
 
-Vous trouverez ici des [articles](/articles) concernant le marketing, l'entrepreneuriat et la start-up ainsi que la finance et la crypto. Ce sit porte sur mes intérêts.
+Vous trouverez ici des [articles](/LabVeilTechSite/articles) concernant le marketing, l'entrepreneuriat et la start-up ainsi que la finance et la crypto. Ce sit porte sur mes intérêts.
 
 De plus, dans la page [à propos](/a-propos), vous trouvrez quelques infos sur le domaine choisi du site, sa taxonomie et mon ikigai.
 
