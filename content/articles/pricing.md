@@ -31,6 +31,13 @@ Eh bien son idée se résume en un concept assez simple:
 Finalement, il faut que le prix que vous choisirez soit perçu par le client comme plus bas que la valeur du produit ou du service. Et, bien sûr, il faut toujours que le client ait les fonds pour payer.
 </p> J'ajouterais que, selon moi, la valeur perçue par le client peut être influencée, selon les cas, par du storytelling ou simplement en jouant sur certains biais, par exemple.
 
+## Pourquoi c’est intéressant pour moi?
+
+Mettre un prix à ce qu’on vend ça devient un problème dès qu’on travaille à son compte. Et en tant qu’étudiant ingénieur des médias, il m’est arrivé de vendre mes services pour construire des sites web par exemple. Naturellement, un tel article m’intéresse.
+<br>
+De plus, le concept présenté dans l’article est universel. Ce qui veut dire que si dans 10 ans, j’ai une entreprise qui vend un produit, je pourrais réutiliser ces connaissances. Et même dans un poste salarié en marketing, il peut arriver de devoir recommander un prix au décideur, qui n’est pas toujours expert du produit en question.
+
+
 <hr>
 Si vous souhaitez lire l'article,
 <a href="https://seths.blog/2024/11/understanding-pricing/" target="_blank">le voici</a>
@@ -40,4 +47,4 @@ Si vous souhaitez lire l'article,
 
 Vous serez peut-être intéressé par l'article suivant:
 
-[Pourquoi un beau site ne convertit pas](LabVeilTechSite/articles/conversion-site-web)
+[Pourquoi un beau site ne convertit pas](/articles/conversion-site-web)

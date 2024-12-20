@@ -74,6 +74,13 @@ Une fois votre site web optimisé, testez-le ! Récoltez des données, analysez 
 Un beau site ne suffit pas à convertir. Ce qui compte, c’est la clarté, la preuve sociale et une expérience utilisateur fluide. En suivant ces conseils, vous pouvez transformer votre site en un outil efficace pour engager vos visiteurs et augmenter vos ventes. 
 
 Alors, passez à l’action : simplifiez, optimisez et testez votre site web.
+
+## Pourquoi c’est intéressant pour moi?
+
+Comme il m’arrive de créer des sites web pour des entreprises ou des associations, une vidéo qui donne des conseils pratiques sur les points à améliorer pour augmenter les conversions - le nerf de la guerre en marketing - est tout à fait pertinente.
+<br>
+Ces conseils sont immédiatement applicables à mes projets actuels, ce qui en fait une ressource précieuse pour optimiser l’impact de mes sites web.
+
 <hr>
 
 Si vous souhaitez voir la vidéo,
@@ -84,4 +91,5 @@ Si vous souhaitez voir la vidéo,
 
 Vous serez peut-être intéressé par l'article suivant:
 <br>
+
 [Les 13 questions essentielles permette d'améliorer la page d'inscription à votre newsletter](/articles/questions-newsletter)

@@ -37,6 +37,11 @@ Personnellement, je pense que cela s’applique à bien d’autres domaines. Plu
 J’ajouterai que cela fait écho au dicton “Nous sommes la moyenne des personnes que nous fréquentons”.
 
 Un bon entourage est essentiel dans tous les cas.
+
+## Pourquoi c’est intéressant pour moi?
+
+Comme dit dans l’introduction de cet article, le contenu de l’article sur lequel je me suis basé pour écrire le mien n’est pas quelque chose que je vais pouvoir mettre en application aujourd’hui. Toutefois, si un jour, j’obtiens un poste à responsabilité, je serai probablement amené à engager du personnel. Et si je monte ma propre entreprise ou start-up, ce contenu sera encore plus pertinent surtout pour un lancement d’une start-up qui est de nature fragile au début et nécessite de bien s’entourer.
+
 <hr>
 
 Si vous souhaitez lire l'article,
@@ -47,4 +52,5 @@ Si vous souhaitez lire l'article,
 
 Vous serez peut-être intéressé par l'article suivant:
 <br>
+
 [Comment définir un prix pour un produit ou un service?](/articles/pricing)

@@ -5,9 +5,16 @@
     <link>http://localhost:1313/articles/</link>
     <description>Recent content in Articles on Loïc&#39;s Space</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <language>fr-ch</language>
+    <lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mon système de veille</title>
+      <link>http://localhost:1313/articles/systeme-de-veille/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/systeme-de-veille/</guid>
+      <description>&lt;p&gt;L’écriture des articles de ce site s’est faite grâce à mon système d’écoute et plus globalement grâce à tous le système avec le tri et le classement compris.&lt;/p&gt;&#xA;&lt;p&gt;Il fonctionne de la manière suivante.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Système d’écoute&lt;/strong&gt; : Lecture rapide des newsletters auxquelles je suis abonné ou surf sur Internet&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Workflow de tri&lt;/strong&gt;: Découverte et lecture d’une ressource intéressante&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Classement&lt;/strong&gt;: Enregistrement de la ressource&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Rentrons maintenant dans les détails de son fonctionnement.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Recruter meilleur que vous</title>
       <link>http://localhost:1313/articles/recruter-meilleur/</link>

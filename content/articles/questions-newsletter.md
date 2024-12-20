@@ -74,6 +74,12 @@ De plus, bien que certains points puissent sembler basiques, comme l’optimisat
 
 Pour moi le point le plus intéressant que je n’avais pas forcément en tête est celui du social sharing. Comme la preview des liens prends de l’ampleur sur le web il devient de plus en plus intéressant et important d’y faire attention.
 
+## Pourquoi c’est intéressant pour moi?
+
+En tant que futur expert en marketing, la newsletter est un canal que je me dois de maîtriser. Elle reste un outil puissant pour engager une audience et convertir efficacement des prospects en clients.
+<br>
+C’est pourquoi un article qui donne des tips pour optimiser les pages d'inscription à une newsletter est donc particulièrement pertinent pour moi. Ce sont des connaissances que je pourrai mettre en pratique rapidement, d’autant plus que je risque de gérer une newsletter prochainement dans le cadre de mon travail.
+
 <hr>
 
 Si vous souhaitez lire l'article,
@@ -84,4 +90,5 @@ Si vous souhaitez lire l'article,
 
 Vous serez peut-être intéressé par l'article suivant:
 <br>
+
 [Pourquoi un beau site ne convertit pas](/articles/conversion-site-web)

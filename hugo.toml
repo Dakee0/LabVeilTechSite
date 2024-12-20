@@ -1,33 +1,30 @@
-baseURL = "https://example.org/"
-languageCode = "en-us"
+baseURL = "https://dakee0.github.io/"
+languageCode = "fr-ch"
 title = "Loïc's Space"
 theme = ["hugo-embed-pdf-shortcode", "hugo-theme-digital-garden"]
 enableInlineShortcodes = true
 
-googleAnalytics = "UA-PROPERTY_ID"
+# googleAnalytics = "UA-PROPERTY_ID"
 
 [Params]
-  description = "My Digital Garden on the Internet"
-  images = ['/digital-garden-logo.png']
+  description = "Loïc's Space - Du contenu de qualité sur le marketing, l'entreprenariat et la finance."
+  images = ['/favicon.ico']
   enableSearch = true
 
 [menu]
 [[menu.main]]
-  name = 'Home'
+  name = 'Accueil'
   url = '/'
   weight = 1
 [[menu.main]]
-  name = 'Content'
-  params.header = true
-  weight = 2
-[[menu.main]]
   name = 'Articles'
   url = '/articles'
-  weight = 3
+  weight = 2
 [[menu.main]]
   name = 'A propos'
   url = '/a-propos'
-  weight = 4
+  weight = 3
+
 
 [[menu.social]]
   name = 'LinkedIn'
@@ -46,7 +43,7 @@ googleAnalytics = "UA-PROPERTY_ID"
 # syntax highlight settings
 [markup]
   [markup.highlight]
-    style = "dracula"
+    style = "github"
   [markup.goldmark.renderer]
     # Enable to include inline HTML
     unsafe = true
