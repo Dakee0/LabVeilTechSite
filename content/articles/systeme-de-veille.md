@@ -33,7 +33,17 @@ Lors du surfing sur le web le tri s’effectue évidemment, naturellement. Mais 
 Quand c’est une newsletter “classique” qui est en elle-même en article, je regarde l’objet du mail ainsi que rapidement son contenu et si cela m’intéresse, je le lis. Mais quand ce sont les Newsletter TLDR, comme par définition, c’est un TLDR des ressources (en anglais uniquement) intéressantes parues dans les derniers jours, je lis le titre de chaque article, si ça m’intéresse, je lis le résumé au-dessous du titre et si vraiment, j’ai envie d’en savoir plus je vais consulter la ressource en entier.
 
 <figure style="text-align: center;">
-    <img src="articles/images/TLDR-ex.png" alt="Aperçu TLDR" style="width: 350px; height: auto;" />
+    <img src="/articles/images/TLDR-ex.png" alt="Aperçu TLDR" style="width: 350px; height: auto;" />
+    <figcaption>Voici un extrait d'une newsletter TLDR</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+    <img src="../../themes/hugo-theme-digital-garden/images/TLDR-ex.png" alt="Aperçu TLDR" style="width: 350px; height: auto;" />
+    <figcaption>Voici un extrait d'une newsletter TLDR</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+    <img src="{{ .RelPermalink }}articles/images/TLDR-ex.png" alt="Aperçu TLDR" style="width: 350px; height: auto;" />
     <figcaption>Voici un extrait d'une newsletter TLDR</figcaption>
 </figure>
 
