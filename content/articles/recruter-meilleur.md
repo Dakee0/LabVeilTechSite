@@ -53,4 +53,4 @@ Si vous souhaitez lire l'article,
 Vous serez peut-être intéressé par l'article suivant:
 <br>
 
-[Comment définir un prix pour un produit ou un service?](/articles/pricing)
+[Comment définir un prix pour un produit ou un service?](../articles/pricing/)
