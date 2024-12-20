@@ -1,4 +1,4 @@
-baseURL = "https://dakee0.github.io/"
+baseURL = "https://dakee0.github.io/LabVeilTechSite/"
 languageCode = "fr-ch"
 title = "Loïc's Space"
 theme = ["hugo-embed-pdf-shortcode", "hugo-theme-digital-garden"]
