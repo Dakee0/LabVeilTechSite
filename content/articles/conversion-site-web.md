@@ -92,4 +92,4 @@ Si vous souhaitez voir la vidéo,
 Vous serez peut-être intéressé par l'article suivant:
 <br>
 
-[Les 13 questions essentielles permette d'améliorer la page d'inscription à votre newsletter](/articles/questions-newsletter)
+[Les 13 questions essentielles permette d'améliorer la page d'inscription à votre newsletter]({{< ref "/articles/questions-newsletter" >}})

@@ -91,4 +91,4 @@ Si vous souhaitez lire l'article,
 Vous serez peut-être intéressé par l'article suivant:
 <br>
 
-[Pourquoi un beau site ne convertit pas](/articles/conversion-site-web)
+[Pourquoi un beau site ne convertit pas]({{< ref "/articles/conversion-site-web" >}})

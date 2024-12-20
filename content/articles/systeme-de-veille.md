@@ -38,6 +38,7 @@ Quand c’est une newsletter “classique” qui est en elle-même en article, j
 </figure>
 
 
+
 ## Classement
 
 Le problème majeur du système que j’utilisais il y a encore peu était le stockage de la ressource. Pour un article sur un site web, elle était enregistrée dans un dossier dans les favoris, pour un post sur Reddit, LinkedIn ou sur X mis dans les bookmarks. Mais la problématique réside dans le fait que si l’article ou le post est supprimé, il disparaît totalement (excepté pour Reddit qui garde certaines infos).
